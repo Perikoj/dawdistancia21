@@ -2,13 +2,14 @@
 
 /**
  * Script que contiene 2 funciones para la práctica 5 de DAW.
- * @author Pedro J. Serrano <- pedroj.serrano0@gmail.com ->
+ * @author Pedro J. Serrano
+ * @copyright pedroj.serrano0@gmail.com
  * @version 05.21
  */
 {@internal Funciones para cálculo}
 /**
  * Función para la realización de la suma de dos números.
- * 
+ *
  * La función recibe 2 parámetros y si se trata de números, devolverá su
  * suma. En otro caso devolverá cero.
  * @param int $a número entero a sumar.
